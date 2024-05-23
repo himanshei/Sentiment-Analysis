@@ -3,4 +3,4 @@ Sentiment analysis based upon the positive and negative scores received by analy
 * VADER(Bag of words approach)
 * Roberta Pretrained Model from Hugging face
 
-   then determining whether a sentiment is positive or negative 
+  then determining whether a sentiment is positive or negative 
