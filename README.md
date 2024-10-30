@@ -4,3 +4,5 @@ Sentiment analysis based upon the positive and negative scores received by analy
 * Roberta Pretrained Model from Hugging face
 
 and determining whether a sentiment is positive or negative 
+
+Dataset on kaggle: https://github.com/himanshei/Sentiment_Analysis/blob/main/README.md
